@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/meibadkhan">
-    <img src="" alt="IbadUllah Khan" /></a>
-</p>
-
+#IbadUllah Khan
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
