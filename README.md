@@ -15,9 +15,6 @@ Highly skilled Flutter developer with two years of experience in developing cros
 
 Developed and deployed Ten(10) Android and iOS applications using Flutter framework, showcasing expertise in creating cross-platform mobile solutions.
 Implemented Firebase services including authentication, real-time database, cloud storage, and cloud messaging to enhance app functionality and user engagement.
-Integrated RESTful APIs to fetch and manage data from external sources, ensuring seamless connectivity and data synchronization.
-Collaborated with designers and backend developers to translate UI/UX designs into fully functional Flutter interfaces, maintaining a consistent and intuitive user experience.
-Conducted thorough testing, debugging, and performance optimization to deliver high-quality, bug-free applications.
 Stayed up-to-date with the latest Flutter advancements, attending conferences and workshops to enhance skills and adopt best practices
 
    <p align="left">
