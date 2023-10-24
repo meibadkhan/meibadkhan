@@ -15,7 +15,7 @@ Implemented Firebase services including authentication, real-time database, clou
 
  
 
-<h3 align="left">Hire  me:</h3>
+<h3 align="left">Get in touch:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ibadullahkhan-684661216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meibadkhan" height="30" width="40" /></a>
 <a href="https://instagram.com/meibadkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="meibadkhan" height="30" width="40" /></a>
