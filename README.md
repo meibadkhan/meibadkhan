@@ -1,7 +1,7 @@
 <h1>IbadUllah Khan</h1>
 
 
-**`Flutter Developer`**
+**`Flutter Developer (Android / iOS)`**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meibadkhan&label=Profile%20views&color=0e75b6&style=flat" alt="meibadkhan" /> </p>
