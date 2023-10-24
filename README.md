@@ -3,7 +3,6 @@
 
 **`Flutter Developer`**
 
-**`Published App On Apple And Play Store 10`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meibadkhan&label=Profile%20views&color=0e75b6&style=flat" alt="meibadkhan" /> </p>
 
@@ -24,7 +23,11 @@ Implemented Firebase services including authentication, real-time database, clou
 
 
  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meibadkhan&show_icons=true&locale=en&layout=compact" alt="meibadkhan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meibadkhan&show_icons=true&locale=en" alt="meibadkhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meibadkhan&" alt="meibadkhan" /></p>
 
 
 ### 📊 Stats
