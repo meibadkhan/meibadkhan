@@ -20,35 +20,8 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
 
-#
 
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![If I Was a Computer Science Student Again, I'd Do This](https://ytcards.demolab.com/?id=a2BXOpzitAM&title=If+I+Was+a+Computer+Science+Student+Again%2C+I%27d+Do+This&lang=en&timestamp=1698070500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=581 "If I Was a Computer Science Student Again, I'd Do This")](https://www.youtube.com/watch?v=a2BXOpzitAM)
-[![Dev Startup Day 3 - Design the Database Schema & Frontend Dev](https://ytcards.demolab.com/?id=u_cyoLe2nhE&title=Dev+Startup+Day+3+-+Design+the+Database+Schema+%26+Frontend+Dev&lang=en&timestamp=1697896842&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2651 "Dev Startup Day 3 - Design the Database Schema & Frontend Dev")](https://www.youtube.com/watch?v=u_cyoLe2nhE)
-[![Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate](https://ytcards.demolab.com/?id=T8tZuv3JIJY&title=Dev+Startup+Day+2+-+Start+of+the+Dev+Platform+Project+w%2F+Boilerplate&lang=en&timestamp=1697738410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=4276 "Dev Startup Day 2 - Start of the Dev Platform Project w/ Boilerplate")](https://www.youtube.com/watch?v=T8tZuv3JIJY)
-[![Dev Startup Day 1 - I'm Coding a Platform for Developers](https://ytcards.demolab.com/?id=AfmaCoX2fTA&title=Dev+Startup+Day+1+-+I%27m+Coding+a+Platform+for+Developers&lang=en&timestamp=1697566500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2881 "Dev Startup Day 1 - I'm Coding a Platform for Developers")](https://www.youtube.com/watch?v=AfmaCoX2fTA)
-[![The Entire Unity Situation Explained (and what it means for developers)](https://ytcards.demolab.com/?id=sb_ZdAKO_xA&title=The+Entire+Unity+Situation+Explained+%28and+what+it+means+for+developers%29&lang=en&timestamp=1695906300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1987 "The Entire Unity Situation Explained (and what it means for developers)")](https://www.youtube.com/watch?v=sb_ZdAKO_xA)
-[![🚀 National Coding Week just got an upgrade!](https://ytcards.demolab.com/?id=TBL6mrZGZr4&title=%F0%9F%9A%80+National+Coding+Week+just+got+an+upgrade%21&lang=en&timestamp=1695312031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=52 "🚀 National Coding Week just got an upgrade!")](https://www.youtube.com/watch?v=TBL6mrZGZr4)
-<!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
