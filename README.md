@@ -11,11 +11,9 @@
 
 
 
-Highly skilled Flutter developer with two years of experience in developing cross-platform mobile applications for Android and iOS. Proficient in Firebase integration and API integration to deliver robust and scalable solutions. Committed to creating engaging user experiences and leveraging the latest industry trends to drive innovation in mobile app development.
-
-Developed and deployed Ten(10) Android and iOS applications using Flutter framework, showcasing expertise in creating cross-platform mobile solutions.
+Highly skilled Flutter developer with two years of experience in developing cross-platform mobile applications for Android and iOS. Proficient in Firebase integration and API integration to deliver robust and scalable solutions. Committed to creating engaging user experiences and leveraging the latest industry trends to drive innovation in mobile app development.Developed and deployed Ten(10) Android and iOS applications using Flutter framework, showcasing expertise in creating cross-platform mobile solutions.
 Implemented Firebase services including authentication, real-time database, cloud storage, and cloud messaging to enhance app functionality and user engagement.
-Stayed up-to-date with the latest Flutter advancements, attending conferences and workshops to enhance skills and adopt best practices
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
