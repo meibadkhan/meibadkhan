@@ -1,4 +1,4 @@
-#  IbadUllah Khan
+<h1>IbadUllah Khan</h1>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
